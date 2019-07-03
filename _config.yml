@@ -1,11 +1,11 @@
 # Base blog settings
 baseurl                      : '' # the subpath of your site,                         # e.g. /blog/
                               # set to '' in case of hosting on GitHub
-url                          : "http://500seeds.github.io" # the base hostname & protocol for your site
+url                          : "http://jeffreycklo.github.io" # the base hostname & protocol for your site
                                   # `http://<username>.github.io` - for GitHub
 
 blog:
-  title                      : Do-Nothing Investor
+  title                      : Jeffrey Lo
   description                  : >
                                this should contain a proper description
 
