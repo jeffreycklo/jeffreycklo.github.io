@@ -1,11 +1,14 @@
 ---
 redirect_from: "/" <!-- Redirect home page to About -->
 ---
+<!-- below doesnt seem to be needed
 layout: page
 title: About
 permalink: /about/
 published: true
 ---
+
+-->
 
 <div class="page" markdown="1">
 
