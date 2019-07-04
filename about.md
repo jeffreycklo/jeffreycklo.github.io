@@ -1,5 +1,6 @@
 ---
 redirect_from: "/" <!-- Redirect home page to About -->
+---
 layout: page
 title: About
 permalink: /about/
