@@ -27,10 +27,10 @@ Available for new opportunities in the realm of a business analyst, data analyst
 
 ### Competencies:
 
-Data Science (EDA, preparation, cleansing, feature selection, modelling, validation) | Machine Learning | Predictive Modelling | Statistical Analysis | Data Interpretation | Supervised Learning (Regression, Classification) | Unsupervised Learning (Dimensionality Reduction) | Time Series Analysis | Web Scraping
+Data Science (EDA, preparation, cleansing, feature selection, modelling, validation) \| Machine Learning \| Predictive Modelling \| Statistical Analysis \| Data Interpretation \| Supervised Learning (Regression, Classification) \| Unsupervised Learning (Dimensionality Reduction) \| Time Series Analysis \| Web Scraping
 
 ### Languages & Frameworks:
 
-Python (pandas, numpy, scikit-learn, seaborn, matplotlib) | Tableau | SQL | LaTeX 
+Python (pandas, numpy, scikit-learn, seaborn, matplotlib) \| Tableau \| SQL \| LaTeX 
 
 </div>
