@@ -9,9 +9,9 @@ Object.entries = (object) => Object.keys(object).map(
 const isObject = (obj) => obj === Object(obj)
 
 const LightTheme = {
-  '--bg-color': '#eee',
+  '--bg-color': '#ffffff',  <!-- original: #eee -->
   '--text-color': '#484848',
-  '--text-color-light': '#828282',
+  '--text-color-light': '#000000', <!-- original: #828282 -->
   '--link-color': '#000',
   '--metadata-color': '#999',
   '--post-title': '#313131',
