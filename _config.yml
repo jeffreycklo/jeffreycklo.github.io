@@ -7,7 +7,7 @@ url                          : "http://jeffreycklo.github.io" # the base hostnam
 blog:
   title                      : Jeffrey Lo
   description                  : >
-                               this should contain a proper description
+                               
 
 # Layout configuration
   logo_path                  : "assets/img/dactl.svg" # path to logo file
