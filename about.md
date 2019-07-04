@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 published: true
+redirect_from: "/"
 ---
 
 <div class="page" markdown="1">
