@@ -7,18 +7,7 @@ published: true
 
 <div class="page" markdown="1">
 
-{% capture page_subtitle %}
-<img
-    class="me"
-    alt="{{ author.name }}"
-    src="{{ site.author.photo | relative_url }}"
-    srcset="{{ site.author.photo2x | relative_url }} 2x"
-/>
-{% endcapture %}
-
 {% include page/title.html title=page.title subtitle=page_subtitle %}
-
-## Workshops
 
 As someone who learn programming until about 2nd year in university, I quickly realised how crucial it is to understand how to code in order to run data analysis. There is no way to succeed in data science and build statistical machine learning models without a single line of code. Even if you don't see yourself in a technical field, it is still very important to learn some foundational level of programming so you can at least understand some parts of it.
 
