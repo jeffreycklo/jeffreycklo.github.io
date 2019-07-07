@@ -18,3 +18,14 @@ The most current data on the website is the February 2017 data, which is used he
 
 <iframe src="https://public.tableau.com/views/SydneyTrainsVisualisationsDatafromFeb2017/SydneyTrainsVisualisations-February2017Data?:showVizHome=no&:embed=true"
  width="950" height="800"></iframe>
+
+## Coffee Chain Dashboards
+
+There are 3 dashboards developed for CFO, regional manager, purchasing manager of a fictional company.
+The data is publicly provided by Tableau.
+
+---
+
+<iframe src="https://public.tableau.com/views/CoffeeChainDashboards/CFO?:showVizHome=no&:embed=true"
+ width="950" height="800"></iframe>
+ 
