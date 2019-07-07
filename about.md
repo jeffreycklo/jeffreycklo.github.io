@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello
+title: Hello!
 permalink: /about/
 published: true
 redirect_from: "/"
