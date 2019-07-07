@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Hello
 permalink: /about/
 published: true
 redirect_from: "/"
@@ -18,8 +18,6 @@ redirect_from: "/"
 {% endcapture %}
 
 {% include page/title.html title=page.title subtitle=page_subtitle %}
-
-## Hello
 
 An avid data science enthusiast with theoretical and practical experience in predictive analysis and machine learning. Currently in my final year at University of Sydney Business School, specialising in analytics and information systems. I continue to further my technical skills through MOOC platforms, participating in Kaggle competitions and working on data projects.
 
