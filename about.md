@@ -19,6 +19,8 @@ redirect_from: "/"
 
 {% include page/title.html title=page.title subtitle=page_subtitle %}
 
+I am currently a Student Ambassador for Tableau and teaching assistant INFS2020 (Business Process Modelling & Improvement) at The University of Sydney Business School.
+
 An avid data science enthusiast with theoretical and practical experience in predictive analysis and machine learning. Currently in my final year at University of Sydney Business School, specialising in analytics and information systems. I continue to further my technical skills through MOOC platforms, participating in Kaggle competitions and working on data projects.
 
 Available for new opportunities in the realm of a business analyst, data analyst/scientist or related fields.
