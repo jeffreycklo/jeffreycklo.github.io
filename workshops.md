@@ -25,7 +25,7 @@ This is exactly why I have developed (created materials from scratch) and ran in
 - Presented in May 2019 as part of a BISA workshop (40 students)
 - SQL Fundamentals with exercises ([student version slides](https://github.com/jeffreycklo/sql_workshop/blob/master/SQL_Workshop_Student_Version.pdf)) ([presenter version slides](https://github.com/jeffreycklo/sql_workshop/blob/master/SQL_Workshop_Full_Version.pdf))
 
-### Python for Machine Learning
+### Tableau for Data Visualisation
 
-- Stay tuned!
+- Workshop on 25th September 2019 at the University of Sydney. Stay tuned!
 
