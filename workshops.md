@@ -15,17 +15,18 @@ This is exactly why I have developed (created materials from scratch) and ran in
 
 ### Python for Data Visualisation
 
-- Presented in September 2018 as part of a BISA workshop (40 students)
+- Presented in September 2018 at the University of Sydney (40 students)
 - Brief introduction to Data Science and Data Visualisation ([slides](https://github.com/jeffreycklo/python_workshop/blob/master/BISA_Workshop_Python_v2cS.pdf))
 - Jupyter Notebook 1: Python essentials ([student version](https://nbviewer.jupyter.org/github/jeffreycklo/python_workshop/blob/master/activity_1.ipynb)) ([full solutions](https://nbviewer.jupyter.org/github/jeffreycklo/python_workshop/blob/master/activity_1_solution.ipynb))
 - Jupyter Notebook 2: Data visualisation ([student version](https://nbviewer.jupyter.org/github/jeffreycklo/python_workshop/blob/master/activity_2.ipynb)) ([full solutions](https://nbviewer.jupyter.org/github/jeffreycklo/python_workshop/blob/master/activity_2_solution.ipynb))
 
 ### SQL for Data Analysis
 
-- Presented in May 2019 as part of a BISA workshop (40 students)
+- Presented in May 2019 at the University of Sydney (40 students)
 - SQL Fundamentals with exercises ([student version slides](https://github.com/jeffreycklo/sql_workshop/blob/master/SQL_Workshop_Student_Version.pdf)) ([presenter version slides](https://github.com/jeffreycklo/sql_workshop/blob/master/SQL_Workshop_Full_Version.pdf))
 
 ### Tableau for Data Visualisation
 
-- Workshop on 25th September 2019 at the University of Sydney. Stay tuned!
+- Workshop on 25th September 2019 at the University of Sydney (65 students)
+- Tableau Dashboard developed ([view on Tableau Public here](https://public.tableau.com/profile/jeffrey.lo#!/vizhome/KickstarterDashboardTechnology/TechDashboard))
 
