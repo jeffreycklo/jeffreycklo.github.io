@@ -27,6 +27,6 @@ This is exactly why I have developed (created materials from scratch) and ran in
 
 ### Tableau for Data Visualisation
 
-- Workshop on 25th September 2019 at the University of Sydney (65 students)
+- Presented in September 2019 at the University of Sydney (65 students)
 - Tableau Dashboard developed ([view on Tableau Public here](https://public.tableau.com/profile/jeffrey.lo#!/vizhome/KickstarterDashboardTechnology/TechDashboard))
 
