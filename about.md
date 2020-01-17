@@ -19,18 +19,27 @@ redirect_from: "/"
 
 {% include page/title.html title=page.title subtitle=page_subtitle %}
 
-I am currently a Data Analyst and Teaching Assistant at University of Sydney, and Student Ambassador for Tableau.
+I am an avid data science and analytics enthusiast with theoretical and practical experience in visualisation, predictive analysis and machine learning. I specialise in building visualisations and dashboards for the purpose of storytelling and aiding data-backed decision making. I enjoy facilitating non-technical students with exploring how different software and tools can be used to gain educated insights.
 
-An avid data science enthusiast with theoretical and practical experience in predictive analysis and machine learning. Currently in my final year at University of Sydney Business School, specialising in analytics and information systems. I continue to further my technical skills through MOOC platforms, participating in Kaggle competitions and working on data projects.
+### Experiences:
 
-Available for new opportunities in the realm of a business analyst, data analyst/scientist or related fields.
+**Data Analyst & Casual Academic - University of Sydney** (2019 - Present)
+
+- Analysing data within the areas of teaching and learning products
+- Facilitating students in INFS2020 (Business Process Modelling and Improvement) with group discussions, practical exercises and simulating processes
+- Presented as a demonstrator to students in INFS3050 (Business Intelligence for Managers) with Tableau data visualisation basics and walkthrough
+
+**Ambassador - Tableau Software** (2019 - Present)
+
+- Driving student adoption of Tableau on campus through running multiple practical workshops per semester
+- Connecting Tableau with academic disciplines and student organisations to expand Tableau presence on campus
 
 ### Competencies:
 
-Data Science (EDA, preparation, cleansing, feature selection, modelling, validation) \| Machine Learning \| Predictive Modelling \| Statistical Analysis \| Data Interpretation \| Supervised Learning (Regression, Classification) \| Unsupervised Learning (Dimensionality Reduction) \| Time Series Analysis \| Web Scraping
+Data Visualisation \| Visual Analytics || Data Science (EDA, preparation, cleansing, feature selection, modelling, validation) \| Machine Learning \| Predictive Modelling \| Statistical Analysis \| Data Interpretation \| Supervised Learning (Regression, Classification) \| Unsupervised Learning (Dimensionality Reduction) \| Time Series Analysis \| Web Scraping
 
 ### Languages & Frameworks:
 
-Python (pandas, numpy, scikit-learn, seaborn, matplotlib) \| Tableau \| SQL \| LaTeX 
+Tableau \| Python (pandas, numpy, scikit-learn, seaborn, matplotlib) \| SQL \| LaTeX 
 
 </div>
