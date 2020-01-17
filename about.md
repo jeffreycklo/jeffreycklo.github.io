@@ -36,7 +36,7 @@ I am an avid data science and analytics enthusiast with theoretical and practica
 
 ### Competencies:
 
-Data Visualisation \| Visual Analytics || Data Science (EDA, preparation, cleansing, feature selection, modelling, validation) \| Machine Learning \| Predictive Modelling \| Statistical Analysis \| Data Interpretation \| Supervised Learning (Regression, Classification) \| Unsupervised Learning (Dimensionality Reduction) \| Time Series Analysis \| Web Scraping
+Data Visualisation \| Visual Analytics \| Data Science (EDA, preparation, cleansing, feature selection, modelling, validation) \| Machine Learning \| Predictive Modelling \| Statistical Analysis \| Data Interpretation \| Supervised Learning (Regression, Classification) \| Unsupervised Learning (Dimensionality Reduction) \| Time Series Analysis \| Web Scraping
 
 ### Languages & Frameworks:
 
