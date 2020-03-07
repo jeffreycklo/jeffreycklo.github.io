@@ -33,10 +33,10 @@ This is exactly why I have developed (created materials from scratch) and ran in
 ### Tableau for Visual Analytics
 
 - Presenting in March 2020 at the University of Sydney
-- ([Event link on Tableau Website](https://usergroups.tableau.com/usyd))
+- [Event link on Tableau Website](https://usergroups.tableau.com/usyd)
 
 ### Tableau Case Competition
 
-- Lead in organising the case competition for students from University of Sydney, University of New South Wales and Macquarie University
-- ([Event link on Tableau Website](https://usergroups.tableau.com/sydneycasecomp))
+- Lead in organising the April 2020 case competition for students from University of Sydney, University of New South Wales and Macquarie University
+- [Event link on Tableau Website](https://usergroups.tableau.com/sydneycasecomp)
 
