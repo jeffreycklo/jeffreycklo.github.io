@@ -30,3 +30,13 @@ This is exactly why I have developed (created materials from scratch) and ran in
 - Presented in September 2019 at the University of Sydney (60 students)
 - Tableau Dashboard developed during the workshop ([view on Tableau Public here](https://public.tableau.com/profile/jeffrey.lo#!/vizhome/KickstarterDashboardTechnology/TechDashboard))
 
+### Tableau for Visual Analytics
+
+- Presenting in March 2020 at the University of Sydney
+- ([Event link on Tableau Website](https://usergroups.tableau.com/usyd))
+
+### Tableau Case Competition
+
+- Lead in organising the case competition for students from University of Sydney, University of New South Wales and Macquarie University
+- ([Event link on Tableau Website](https://usergroups.tableau.com/sydneycasecomp))
+
