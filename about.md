@@ -19,15 +19,15 @@ redirect_from: "/"
 
 {% include page/title.html title=page.title subtitle=page_subtitle %}
 
-I am an avid data science and analytics enthusiast with theoretical and practical experience in visualisation, predictive analysis and machine learning. I specialise in building visualisations and dashboards for the purpose of storytelling and aiding data-backed decision making. I enjoy facilitating non-technical students with exploring how different software and tools can be used to gain educated insights.
+I am a visual data analyst specialising in building visualisations and dashboards for the purpose of storytelling and aiding data-backed decision making. I enjoy facilitating non-technical students with exploring how different software and tools can be used to gain educated insights.
 
 ### Experiences:
 
-**Data Analyst & Casual Academic - University of Sydney** (2019 - Present)
+**Data Analyst & Academic - University of Sydney** (2019 - Present)
 
-- Analysing data within the areas of teaching and learning products
-- Facilitating students in INFS2020 (Business Process Modelling and Improvement) with group discussions, practical exercises and simulating processes
-- Presented as a demonstrator to students in INFS3050 (Business Intelligence for Managers) with Tableau data visualisation basics and walkthrough
+- Analysing data within the areas of education technology
+- Facilitating students in INFS2020 (Business Process Modelling and Improvement) with group discussions, practical exercises and simulating business processes
+- Presented as a guest lecturer/demonstrator to students in INFS3050 (Business Intelligence for Managers) and INFS3110 (Information Systems for Accountants) with Tableau data visualisation basics and walkthrough
 
 **Ambassador - Tableau Software** (2019 - Present)
 
