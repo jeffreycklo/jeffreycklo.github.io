@@ -27,7 +27,6 @@ I am a visual data analyst specialising in building visualisations and dashboard
 
 - Analysing data within the areas of education technology
 - Facilitating students in INFS2020 (Business Process Modelling and Improvement) with group discussions, practical exercises and simulating business processes
-- Presented as a guest lecturer/demonstrator to students in INFS3050 (Business Intelligence for Managers) and INFS3110 (Information Systems for Accountants) with Tableau data visualisation basics and walkthrough
 
 **Ambassador - Tableau Software** (2019 - Present)
 
