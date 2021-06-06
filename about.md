@@ -19,26 +19,30 @@ redirect_from: "/"
 
 {% include page/title.html title=page.title subtitle=page_subtitle %}
 
-I am a visual data analyst specialising in building visualisations and dashboards for the purpose of storytelling and aiding data-backed decision making. I enjoy facilitating non-technical students with exploring how different software and tools can be used to gain educated insights.
+I have a passion for building visualisations and dashboards for the purpose of telling stories with data and aiding business decision making. On the side, I enjoy teaching technical skills (such as data and process modelling, simulation, BI tools) to business/non-technical students and facilitating their learning.
 
 ### Experiences:
 
-**Data Analyst & Academic - University of Sydney** (2019 - Present)
+**Data Analyst (Power BI Developer) - University of Sydney** (2019 - Present)
 
-- Analysing data within the areas of education technology
-- Facilitating students in INFS2020 (Business Process Modelling and Improvement) with group discussions, practical exercises and simulating business processes
+- Developing Power BI dashboards using agile methodologies for service monitoring, usage levels and strategic decision making
+- Engaging with key stakeholders (associate directors, managers etc.) to develop and translate business requirements into actionable reporting solutions
+- Implementing best practices in data modelling and visualisation, using DAX and M
+- Deploying automated data cleansing pipelines including using Power Automate
+- Presenting findings and data-backed recommendations and providing training to business users
 
-**Ambassador - Tableau Software** (2019 - Present)
+**Ambassador - Tableau Software** (2019 - 2020)
 
-- Driving student adoption of Tableau on campus through running multiple practical workshops per semester
-- Connecting Tableau with academic disciplines and student organisations to expand Tableau presence on campus
+- Ran 4 Tableau workshops to 550+ attendees both on campus and online
+- Organised, developed and judged the inaugural Australia 2020 Inter-University Tableau Data Case Competition competed by over 100 students from University of Sydney, UNSW and MQ
+- Drove student adoption of Tableau on campus and connected Tableau with academic disciplines and student organisations
 
 ### Competencies:
 
-Data Visualisation \| Visual Analytics \| Data Science (EDA, preparation, cleansing, feature selection, modelling, validation) \| Machine Learning \| Predictive Modelling \| Statistical Analysis \| Data Interpretation \| Supervised Learning (Regression, Classification) \| Unsupervised Learning (Dimensionality Reduction) \| Time Series Analysis \| Web Scraping
+Data Visualisation \| Visual Analytics \| Data Science \| Machine Learning \| Predictive Modelling \| Statistical Analysis \| Data Interpretation \| Time Series Analysis \| Web Scraping
 
 ### Languages & Frameworks:
 
-Tableau \| Python (pandas, numpy, scikit-learn, seaborn, matplotlib) \| SQL \| LaTeX 
+Power BI (DAX, Power Query M language) \| Tableau \| Python (pandas, scikit-learn, seaborn, etc.) \| SQL
 
 </div>
