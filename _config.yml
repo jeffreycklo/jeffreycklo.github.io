@@ -35,7 +35,7 @@ author:
   youtube                   : #
   stackoverflow             : #
   disqus                    : # your_disqus_forum_shortname
-  google_analytics          : # 'UA-XXXXXXXX-X'
+  google_analytics          : 'UA-198821345-1'
   photo                     : "uploads/me2.png"
   photo2x                   : "uploads/me.png"
 
