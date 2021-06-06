@@ -12,7 +12,7 @@ const LightTheme = {
   '--bg-color': '#ffffff',  <!-- original: #eee -->
   '--text-color': '#484848',
   '--text-color-light': '#000000', <!-- original: #828282 -->
-  '--link-color': '#000',
+  '--link-color': '#1e3799',
   '--metadata-color': '#999',
   '--post-title': '#313131',
   '--code-bg-color': '#fff',
@@ -28,7 +28,7 @@ const NightTheme = {
   '--bg-color': '#1c1c1c',
   '--text-color': '#c4c4c4',
   '--text-color-light': '#777',
-  '--link-color': '#f1f1f1',
+  '--link-color': '#9cb0dc',
   '--metadata-color': '#666',
   '--post-title': '#fff',
   '--code-bg-color': '#252525',
