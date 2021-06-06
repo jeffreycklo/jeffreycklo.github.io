@@ -8,16 +8,17 @@ redirect_from: "/"
 
 <div class="page" markdown="1">
 
+{% capture page_subtitle %}
+{% endcapture %}
+
 {% include page/title.html title=page.title subtitle=page_subtitle %}
 
-{% capture page_subtitle %}
 <img
     class="me"
     alt="{{ author.name }}"
     src="{{ site.author.photo | relative_url }}"
     srcset="{{ site.author.photo2x | relative_url }} 2x"
 />
-{% endcapture %}
 
 I have a passion for building visualisations and dashboards for the purpose of telling stories with data and aiding business decision making. On the side, I enjoy teaching technical skills (such as data and process modelling, simulation, BI tools) to business/non-technical students and facilitating their learning.
 
