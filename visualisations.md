@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Visualisations
-permalink: /visualisations/
+title: Projects
+permalink: /projects/
 published: true
 ---
 
