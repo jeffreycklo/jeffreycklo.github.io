@@ -20,8 +20,3 @@ Whilst my focus has pivoted to service-based operational and strategic dashboard
 
 - The data is publicly provided by [Bureau of Infrastructure, Transport and Regional Economics]( https://www.bitre.gov.au/publications/ongoing/domestic_airline_activity-time_series.aspx).
 - View the dashboard on [Tableau Public](https://public.tableau.com/profile/jeffrey.lo#!/vizhome/AustralianDomesticAviationActivities/Dashboard).
-
-## Kickstarter Dashboard (Technology) - Workshop
-
-- This dashboard is made part of a student workshop held on 25th September 2019.
-- View the dashboard on [Tableau Public](https://public.tableau.com/profile/jeffrey.lo#!/vizhome/KickstarterDashboardTechnology/TechDashboard).
