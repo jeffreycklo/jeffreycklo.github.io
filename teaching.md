@@ -40,6 +40,6 @@ I enjoy teaching on the side, it's a hobby of mine. Below is a list of units tha
 - Student Workshops
   - April 2020: Inter-University Tableau Data Case Competition (university case competition, 25 teams, [event link here](https://usergroups.tableau.com/sydneydatacomp))
   - March 2020: Intermediate Visual Analytics using Tableau (student workshop, 350 attendees, [event link here](https://usergroups.tableau.com/usyd))
-  - September 2019: Intermediate Data Visualisation using Tableau (student workshop, 60 attendees)
+  - September 2019: Intermediate Data Visualisation using Tableau (student workshop, 60 attendees, [workshop materials here](https://jeffreycklo.github.io/workshops/))
   - May 2019: SQL for Data Analysis (student workshop, 40 attendees, [workshop materials here](https://jeffreycklo.github.io/workshops/))
   - September 2018: Python for Data Visualisation (student workshop, 40 attendees, [workshop materials here](https://jeffreycklo.github.io/workshops/))
