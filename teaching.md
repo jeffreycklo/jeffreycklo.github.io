@@ -29,18 +29,17 @@ I enjoy teaching on the side, it's a hobby of mine. Below is a list of units tha
 
 - [Business Process Modelling and Improvement (INFS2020)](https://www.sydney.edu.au/units/INFS2020)
 
-### Guest Lecturing / Speaking
+### Guest Lectures and Student Workshops
 
-- [Business Process Modelling and Improvement (INFS2020)](https://www.sydney.edu.au/units/INFS2020) - 2 sessions on process automation using Microsoft Power Automate
-- [Business Intelligence for Managers (INFS3050)](https://www.sydney.edu.au/units/INFS3050) - 5 sessions on data visualisation using Tableau
-- [Information Systems for Accountants (INFS3110)](https://www.sydney.edu.au/units/INFS3110) - 2 sessions on visual analytics using Tableau
-
-### Workshops / Talks
-
-- Below is a list of workshops and talks I've presented for various societies when I was an undergraduate at the university:
-- More details of these workshops, including materials, can be found [here](https://jeffreycklo.github.io/workshops/).
-  - Python for Data Visualisation (September 2018, 40 attendees)
-  - SQL for Data Analysis (May 2019, 40 attendees)
-  - Data Visualisation using Tableau (September 2019, 60 attendees)
-  - Visual Analytics using Tableau (March 2020, 350 attendees)
-  - 2020 Inter-University Tableau Data Case Competition (April 2020, 25 teams)
+- Guest Lectures
+  - May 2021: Process Automation using Microsoft Power Automate (guest lecture for [Business Process Modelling and Improvement (INFS2020)](https://www.sydney.edu.au/units/INFS2020))
+  - April 2021: Intro to Visual Analytics using Tableau and Microsoft Power BI (guest lecture for [Information Systems for Accountants (INFS3110)](https://www.sydney.edu.au/units/INFS3110))
+  - September 2020: Intro to Data Visualisation using Tableau (guest lecture for [Business Intelligence for Managers (INFS3050)](https://www.sydney.edu.au/units/INFS3050))
+  - April 2020: Intro to Visual Analytics using Tableau (guest lecture for [Information Systems for Accountants (INFS3110)](https://www.sydney.edu.au/units/INFS3110))
+  - September 2019: Intro to Data Visualisation using Tableau (guest lecture for [Business Intelligence for Managers (INFS3050)](https://www.sydney.edu.au/units/INFS3050))
+- Student Workshops
+  - April 2020: Inter-University Tableau Data Case Competition (university case competition, 25 teams, [event link here](https://usergroups.tableau.com/sydneydatacomp))
+  - March 2020: Intermediate Visual Analytics using Tableau (student workshop, 350 attendees, [event link here](https://usergroups.tableau.com/usyd))
+  - September 2019: Intermediate Data Visualisation using Tableau (student workshop, 60 attendees)
+  - May 2019: SQL for Data Analysis (student workshop, 40 attendees, [workshop materials here](https://jeffreycklo.github.io/workshops/))
+  - September 2018: Python for Data Visualisation (student workshop, 40 attendees, [workshop materials here](https://jeffreycklo.github.io/workshops/))
