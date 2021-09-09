@@ -19,7 +19,9 @@ redirect_from: "/"
 
 {% include page/title.html title=page.title subtitle=page_subtitle %}
 
-I have a passion for building visualisations and dashboards for the purpose of telling stories with data and aiding business decision making. On the side, I enjoy teaching technical skills (such as data and process modelling, simulation, BI tools) to business/non-technical students and facilitating their learning.
+I help build self-service analytical capability within internal functions, to help business users make data-informed decisions. I'm very passionate about analytics and data reporting, specialising in data modelling and building analytical dashboards.
+
+On the side, I enjoy teaching technical skills (such as data modelling, visual analytics, data visualisation, business process modelling) to business/non-technical users (including students) and facilitating their learning journeys.
 
 ### Experiences:
 
@@ -31,6 +33,11 @@ I have a passion for building visualisations and dashboards for the purpose of t
 - Deploying automated data cleansing pipelines including using Power Automate
 - Presenting findings and data-backed recommendations and providing training to business users
 
+**Teaching Assistant - The University of Sydney Business School** (2019 - Present)
+
+- Delivering tutorials, facilitating students, group discussions and practical exercises in the courses
+- A list of units I have taught, including guest lectures, can be found in the [teaching tab](https://jeffreycklo.github.io/teaching)
+
 **Ambassador - Tableau Software** (2019 - 2020)
 
 - Ran 4 Tableau workshops to 550+ attendees both on campus and online
@@ -39,10 +46,10 @@ I have a passion for building visualisations and dashboards for the purpose of t
 
 ### Competencies:
 
-Data Visualisation \| Visual Analytics \| Data Science \| Machine Learning \| Predictive Modelling \| Statistical Analysis \| Data Interpretation \| Time Series Analysis \| Web Scraping
+Data Visualisation \| Visual Analytics \| Data Modelling \| Data Science \| Machine Learning \| Predictive Modelling
 
 ### Languages & Frameworks:
 
-Power BI (DAX, Power Query M language) \| Tableau \| Python (pandas, scikit-learn, seaborn, etc.) \| SQL
+Power BI (DAX, Power Query M language) \| Tableau \| SQL \| Python (pandas, scikit-learn, seaborn, etc.)
 
 </div>
