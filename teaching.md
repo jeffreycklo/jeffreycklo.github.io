@@ -11,6 +11,10 @@ published: true
 
 I enjoy teaching on the side, it's a hobby of mine. Below is a list of units that I've taught at The University of Sydney Business School.
 
+### Semester 2, 2021
+
+- [Digital Business Innovation (INFS1000)](https://www.sydney.edu.au/units/INFS1000)
+- [Data Governance and Technology Assurance (INFS2050)](https://www.sydney.edu.au/units/INFS2050)
 
 ### Semester 1, 2021
 
