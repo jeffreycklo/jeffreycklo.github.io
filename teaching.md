@@ -20,6 +20,8 @@ I enjoy teaching on the side, it's a hobby of mine. Below is a list of units tha
 
 ### Guest Lectures
 
+- October 2021: Process Automation using Microsoft Power Automate (guest lecture for [Business Process Management (INFS6015)](https://www.sydney.edu.au/units/INFS6015))
+- October 2021: Intro to Visual Analytics using Tableau and Microsoft Power BI (guest lecture for [Information Systems for Accountants (INFS3110)](https://www.sydney.edu.au/units/INFS3110))
 - May 2021: Process Automation using Microsoft Power Automate (guest lecture for [Business Process Modelling and Improvement (INFS2020)](https://www.sydney.edu.au/units/INFS2020))
 - April 2021: Intro to Visual Analytics using Tableau and Microsoft Power BI (guest lecture for [Information Systems for Accountants (INFS3110)](https://www.sydney.edu.au/units/INFS3110))
 - September 2020: Intro to Data Visualisation using Tableau (guest lecture for [Business Intelligence for Managers (INFS3050)](https://www.sydney.edu.au/units/INFS3050))
