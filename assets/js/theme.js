@@ -36,7 +36,7 @@ const NightTheme = {
   '--table-border-color': '#292929',
   '--table-header-color': '#505050',
   '--shadow-color': 'rgba(255, 255, 255, 0.1)',
-  '--invert-logo-color': 'invert(0.9)',
+  '--invert-logo-color': 'invert(0.6)',
   themeName: 'NightTheme'
 }
 
