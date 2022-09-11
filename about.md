@@ -21,7 +21,7 @@ redirect_from: "/"
 
 I help build self-service analytical capability within internal functions, to help business users make data-informed decisions. Within my current role, I engage with various senior stakeholders to provide innovative solutions around their data and reporting needs. I'm very passionate about analytics and visualisation, specialising in data modelling and building analytical dashboards.
 
-On the side, I enjoy teaching technical skills (such as data modelling, visual analytics, data visualisation, business process modelling). A list of units I have taught, including guest lectures, can be found in the [teaching tab](https://jeffreycklo.github.io/teaching)
+On the side, I enjoy teaching technical skills (such as data modelling, visual analytics, data visualisation, business process modelling). A list of units I have taught, including guest lectures, can be found in the [teaching tab](https://jeffreycklo.github.io/teaching).
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/jeffreycklo/)!
 
