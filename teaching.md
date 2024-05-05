@@ -13,10 +13,10 @@ I enjoy teaching on the side, it's a hobby of mine. Below is a list of units tha
 
 ### Teaching
 
-- [INFS1000 Digital Business Innovation](https://www.sydney.edu.au/units/INFS1000) (S1 2021, S2 2021, Intensive Feb 2022, S1 2022, S2 2022, S1 2023)
+- [INFS1000 Digital Business Innovation](https://www.sydney.edu.au/units/INFS1000) (S1 2021, S2 2021, Intensive Feb 2022, S1 2022, S2 2022, S1 2023, S1 2024)
 - [INFS2050 Data Governance and Technology Assurance](https://www.sydney.edu.au/units/INFS2050) (S2 2021)
 - [INFS3050 Business Intelligence for Managers](https://www.sydney.edu.au/units/INFS3050) (S2 2020)
-- [INFS3120 Business Process Analysis and Design](https://www.sydney.edu.au/units/INFS2020) (S2 2019, S1 2020, S1 2021, S1 2023)
+- [INFS3120 Business Process Analysis and Design](https://www.sydney.edu.au/units/INFS2020) (S2 2019, S1 2020, S1 2021, S1 2023, S1 2024)
 - [INFS6015 Business Process Management](https://www.sydney.edu.au/units/INFS6015) (S2 2022)
 
 ### Guest Lectures
