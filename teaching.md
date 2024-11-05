@@ -13,15 +13,15 @@ I enjoy teaching on the side, it's a hobby of mine. Below is a list of units tha
 
 ### Teaching
 
-- [INFS1000 Digital Business Innovation](https://www.sydney.edu.au/units/INFS1000) (S1 2021, S2 2021, Intensive Feb 2022, S1 2022, S2 2022, S1 2023, S1 2024)
+- [INFS1000 Digital Business Innovation](https://www.sydney.edu.au/units/INFS1000) (S1 2021, S2 2021, Intensive Feb 2022, S1 2022, S2 2022, S1 2023, S1 2024, S2 2024)
 - [INFS2050 Data Governance and Technology Assurance](https://www.sydney.edu.au/units/INFS2050) (S2 2021)
 - [INFS3050 Business Intelligence for Managers](https://www.sydney.edu.au/units/INFS3050) (S2 2020)
 - [INFS3120 Business Process Analysis and Design](https://www.sydney.edu.au/units/INFS2020) (S2 2019, S1 2020, S1 2021, S1 2023, S1 2024)
-- [INFS6015 Business Process Management](https://www.sydney.edu.au/units/INFS6015) (S2 2022)
+- [INFS6015 Business Process Management](https://www.sydney.edu.au/units/INFS6015) (S2 2022, S2 2024)
 
 ### Guest Lectures
 
-- Process Automation using Microsoft Power Automate (guest lecture for [INFS3120 Business Process Analysis and Design](https://www.sydney.edu.au/units/INFS3120) and [INFS6015 Business Process Management](https://www.sydney.edu.au/units/INFS6015) in May 2021, Oct 2021, May 2022, Oct 2022, May 2023)
+- Process Automation using Microsoft Power Automate (guest lecture for [INFS3120 Business Process Analysis and Design](https://www.sydney.edu.au/units/INFS3120) and [INFS6015 Business Process Management](https://www.sydney.edu.au/units/INFS6015) in May 2021, Oct 2021, May 2022, Oct 2022, May 2023, May 2024, Oct 2024)
 - Business Process Analysis and Improvement (lecture for [INFS1000 Digital Business Innovation](https://www.sydney.edu.au/units/INFS1000) in Oct 2022)
 - Introduction to Visual Analytics using Tableau and Microsoft Power BI (guest lecture for [INFS3110 Information Systems for Accountants](https://www.sydney.edu.au/units/INFS3110) in Apr 2020, Apr 2021, Oct 2021)
 - Introduction to Data Visualisation using Tableau (guest lecture for [INFS3050 Business Intelligence for Managers](https://www.sydney.edu.au/units/INFS3050) in Sep 2019, Sep 2020)
